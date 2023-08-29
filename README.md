@@ -1,2 +1,2 @@
-# CSS-CV
-This CV Has Been Made By using css and html only.
+## AmanSaroj-CV
+This project presents Aman Kumar Saroj's professional CV using HTML and CSS. The CV is designed to visually showcase Aman's skills, experiences, and accomplishments.
